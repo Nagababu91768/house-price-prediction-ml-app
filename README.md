@@ -7,6 +7,7 @@ This project intention to Predict different House Prices in different states in 
   
 ## Installation
 Use the package manager [pip](https://pypi.org/project/Naga-Ml-Model-Apps/) to install Food Apps.
+
 ![licience-MIT-green](https://user-images.githubusercontent.com/92179722/136644506-92d1c95e-1407-4fe8-8d41-1020a4d6d257.png) ![reusable-Naga--Ml--Model--Apps-orange (1)](https://user-images.githubusercontent.com/92179722/136644513-5fa64338-3292-4006-a785-f8189c9c929b.png) ![status-stable-yellowgreen](https://user-images.githubusercontent.com/92179722/136644526-45d63c41-0397-427d-9388-ed9c145dc91f.png)
 
 ```bash
