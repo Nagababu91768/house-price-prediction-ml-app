@@ -19,7 +19,7 @@ pip install Naga-Ml-Model-Apps
 
    ![Screenshot (870)_LI](https://user-images.githubusercontent.com/92179722/136644933-6fbcca0f-e3d5-49f8-aae5-0cf01f8116c0.jpg)
    
-- Add Deployment App in settings.py file
+- Add ``Deployment,widget_tweaks,crispy_forms`` App in settings.py file
 
    ![Screenshot (859)](https://user-images.githubusercontent.com/92179722/136644637-19c8cddf-2bbc-4654-8663-bfdc1639bbfd.png)
    
